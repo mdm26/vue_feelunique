@@ -1,0 +1,13 @@
+{
+	"imgs":
+	[
+		"../static/img/index/cBanner1.jpg",
+		"../static/img/index/cBanner2.jpg",
+		"../static/img/index/cBanner3.jpg",
+		"../static/img/index/cBanner4.jpg"
+	],
+	"readers":[
+		{"id":"007","name":"张三疯","age":35},
+		{"id":"008","name":"张四疯","age":32}
+	]
+}

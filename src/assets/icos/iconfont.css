@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1130676 */
+  src: url('//at.alicdn.com/t/font_1130676_8loy48stg69.eot');
+  src: url('//at.alicdn.com/t/font_1130676_8loy48stg69.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1130676_8loy48stg69.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1130676_8loy48stg69.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1130676_8loy48stg69.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1130676_8loy48stg69.svg#iconfont') format('svg');
+}
+ 
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fenlei:before {
+  content: "\e659";
+}
+
+.icon-F:before {
+  content: "\e693";
+}
+
+.icon-gouwulan:before {
+  content: "\e65a";
+}
+
+.icon-shouye:before {
+  content: "\e628";
+}
+.icon-home1:before {
+  content: "\e604;";
+}
+.icon-fenlei1:before {
+  content: "\e60c";
+}
+.icon-sousuo:before {
+  content: "\e64d";
+}
+.icon-gerenzhongxinwoderenwubiaozhuntouxianxing:before {
+  content: "\e62f";
+}
+
